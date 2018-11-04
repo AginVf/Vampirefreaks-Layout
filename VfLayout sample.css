@@ -1,0 +1,74 @@
+<center>
+  <style>
+body,
+html {
+	background: url(https://i.imgur.com/2AGdkBf.jpg);
+	
+}
+
+body,
+input,
+select,
+table,
+textarea {
+	font-family: tahoma, sans-serif;
+	font-size: 9pt;
+	text-align: center;
+	color: #bbb;
+	letter-spacing: 0;
+	font-weight: lighter;
+	font-style: normal;
+	text-shadow: none;
+}
+
+.user_profile_box {
+    border: solid 1px #efa198;
+    max-width: 900px;
+    overflow: hidden!important;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(20,20,20,.7);
+ }
+
+.panel-primary>.panel-heading, .panel-default>.panel-heading {
+    background-color: #5f5d5c00;
+    border: none;
+    border-bottom: solid 1px #333;
+    color: #fff!important;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 700;
+    font-size: 1.2em;
+ }
+
+.navigx2, .nabigx1:active, .navigx2, .nabigx1:link, .navigx2, .nabigx1:visited {
+    border-radius: 12px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 5pt;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 4px;
+    margin-left: 2px;
+    margin-right: 2px;
+    display: inline-block;
+    text-decoration: none;
+    text-shadow: none;
+    padding: 3px;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 700;
+    color: #fed8b1;
+    background-color: #bf5a6c82;
+    -webkit-transition: all .5s ease-in-out;
+    background-blend-mode: all .5s ease-out;
+}
+
+.navigx2, .nabigx1:hover {
+	color: #965289;
+	text-shadow: none;
+
+
+
+    +++++ Please text me for full code +++
+    required!{permission}^^
